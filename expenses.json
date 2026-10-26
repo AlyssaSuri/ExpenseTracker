@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "description": "lunch",
+        "amount": 200,
+        "category": "food"
+    },
+    {
+        "id": 2,
+        "description": "dinner",
+        "amount": 300,
+        "category": "food"
+    },
+    {
+        "id": 3,
+        "description": "brekkie",
+        "amount": 100,
+        "category": "food",
+        "date": "2026-10-22"
+    },
+    {
+        "id": 5,
+        "description": "snacks",
+        "amount": 50,
+        "category": "food",
+        "date": "2026-10-26"
+    },
+    {
+        "id": 6,
+        "description": "shopping",
+        "amount": 1000,
+        "category": "clothes",
+        "date": "2026-10-26"
+    }
+]
